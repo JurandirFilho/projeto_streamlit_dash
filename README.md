@@ -24,7 +24,7 @@ Recursos Humanos, desenvolvido com Python, pandas, Plotly e Streamlit.
 
 <p align="center">
 
-<strong>`People Analytics • Data Analytics • Python •
+<strong>People Analytics • Data Analytics • Python •
 Streamlit`</strong>
 
 </p>
@@ -79,27 +79,28 @@ leitura rápida da situação do quadro de colaboradores.
 
 <p align="center">
 
-<img src="assets/dashboard_headcount.png" width="900" alt="Análise de Headcount">
+<img src="assets/headcount1.png" width="900" alt="Análise de Headcount">
+<img src="assets/headcount2.png" width="900" alt="Análise de Headcount">
+<img src="assets/headcount3.png" width="900" alt="Análise de Headcount">
 
 </p>
-```
+
 Permite acompanhar a evolução da força de trabalho, admissões,
 desligamentos e distribuição dos colaboradores.
 
 ### Remuneração
 
-```{=html}
+
 <p align="center">
-```
-`<img src="assets/dashboard_remuneracao.png" width="900" alt="Análise de Remuneração">`{=html}
-```{=html}
+
+<img src="assets/remuneracao1.png" width="900" alt="Análise de Remuneração">
+<img src="assets/remuneracao2.png" width="900" alt="Análise de Remuneração">
+<img src="assets/remuneracao3.png" width="900" alt="Análise de Remuneração">
+
 </p>
-```
+
 Permite comparar salários entre níveis, departamentos e tipos de
 unidade, além de observar a distribuição salarial.
-
-> Salve os screenshots na pasta `assets/` utilizando exatamente os nomes
-> indicados acima para que apareçam automaticamente no GitHub.
 
 ------------------------------------------------------------------------
 
@@ -452,11 +453,11 @@ disponibilizadas publicamente.
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <p align="center">
-```
-`<strong>`{=html}People Analytics`</strong>`{=html}`<br>`{=html}
+
+<strong>People Analytics</strong><br>
 Transformando dados de pessoas em informações para decisão.
-```{=html}
+
 </p>
-```
+
