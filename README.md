@@ -63,23 +63,24 @@ interativas em **Plotly** e tratamento dos dados com **pandas**.
 
 ### Visão Executiva
 
-```{=html}
+
 <p align="center">
-```
-`<img src="assets/dashboard_executivo.png" width="900" alt="Visão Executiva do dashboard">`{=html}
-```{=html}
+
+<img src="assets/executiva_kpi.png" width="900" alt="Visão Executiva do dashboard">
+<img src="assets/executiva_dash.png" width="900" alt="Visão Executiva do dashboard">
+
 </p>
-```
+
 A visão executiva concentra os principais indicadores e permite uma
 leitura rápida da situação do quadro de colaboradores.
 
 ### Headcount e movimentações
 
-```{=html}
+
 <p align="center">
-```
-`<img src="assets/dashboard_headcount.png" width="900" alt="Análise de Headcount">`{=html}
-```{=html}
+
+<img src="assets/dashboard_headcount.png" width="900" alt="Análise de Headcount">
+
 </p>
 ```
 Permite acompanhar a evolução da força de trabalho, admissões,
